@@ -9,24 +9,52 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4 Pillow cairosvg
+
+      - name: Find input files
+        run: |
+          CSV=$(find . -name products.csv -not -path "./.git/*" | head -1)
+          SCRIPT=$(find . -name fetch_images.py -not -path "./.git/*" | head -1)
+          echo "Found CSV: $CSV"
+          echo "Found script: $SCRIPT"
+          if [ -z "$CSV" ] || [ -z "$SCRIPT" ]; then
+            echo "::error::products.csv or fetch_images.py is missing from the repo."
+            exit 1
+          fi
+          echo "CSV=$CSV" >> "$GITHUB_ENV"
+          echo "SCRIPT=$SCRIPT" >> "$GITHUB_ENV"
+
       - name: Download images for every product
         run: |
-          tail -n +2 products.csv | while IFS=, read -r slug url; do
+          mkdir -p images
+          tail -n +2 "$CSV" | while IFS=, read -r slug url; do
             url="$(echo "$url" | tr -d '\r')"
-            [ -z "$url" ] && { echo "skip $slug (no url)"; continue; }
+            if [ -z "$url" ]; then
+              echo "skip $slug (no url)"
+              continue
+            fi
             echo "=== $slug -> $url"
-            python scripts/fetch_images.py "$url" --out "images/$slug" \
-              --max 12 --min-width 250 --min-height 200 || echo "warn: $slug returned no images"
+            python "$SCRIPT" "$url" --out "images/$slug" \
+              --max 12 --min-width 250 --min-height 200 \
+              || echo "warn: $slug returned no images"
           done
+          echo "Total image files saved:"
+          find images -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \) | wc -l
+
       - name: Commit images
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          if [ -z "$(ls -A images 2>/dev/null)" ]; then
+            echo "No images were saved, nothing to commit."
+            exit 0
+          fi
           git add images
           git commit -m "Fetched product images" || echo "nothing to commit"
           git push
