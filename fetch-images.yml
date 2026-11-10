@@ -14,19 +14,31 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install requests beautifulsoup4 Pillow cairosvg
+      - name: Find input files
+        run: |
+          CSV=$(find . -name products.csv -not -path "./.git/*" | head -1)
+          SCRIPT=$(find . -name fetch_images.py -not -path "./.git/*" | head -1)
+          echo "CSV=$CSV"; echo "SCRIPT=$SCRIPT"
+          if [ -z "$CSV" ] || [ -z "$SCRIPT" ]; then
+            echo "::error::products.csv or fetch_images.py not found in the repo. Upload them first."
+            ls -R . | head -50; exit 1
+          fi
+          echo "CSV=$CSV" >> $GITHUB_ENV
+          echo "SCRIPT=$SCRIPT" >> $GITHUB_ENV
       - name: Download images for every product
         run: |
-          tail -n +2 products.csv | while IFS=, read -r slug url; do
+          mkdir -p images
+          tail -n +2 "$CSV" | while IFS=, read -r slug url; do
             url="$(echo "$url" | tr -d '\r')"
             [ -z "$url" ] && { echo "skip $slug (no url)"; continue; }
             echo "=== $slug -> $url"
-            python scripts/fetch_images.py "$url" --out "images/$slug" \
+            python "$SCRIPT" "$url" --out "images/$slug" \
               --max 12 --min-width 250 --min-height 200 || echo "warn: $slug returned no images"
           done
+          echo "Total image files:"; find images -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) | wc -l
       - name: Commit images
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add images
-          git commit -m "Fetched product images" || echo "nothing to commit"
-          git push
+          git add images || true
+          git commit -m
