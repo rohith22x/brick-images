@@ -1,0 +1,48 @@
+{
+  "images": [
+    {
+      "source_page": "https://barblockapp.com",
+      "image_url": "https://barblock.app/og-image.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "skipped": "network blocked"
+    },
+    {
+      "source_page": "https://barblockapp.com",
+      "image_url": "https://barblockapp.com/icon.webp",
+      "alt": "BarBlock Logo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/barblock/001-icon.jpg",
+      "bytes": 91057
+    },
+    {
+      "source_page": "https://barblockapp.com",
+      "image_url": "https://barblockapp.com/screenshots_updated_in_order/ss1.jpg",
+      "alt": "BarBlock home screen showing Apps Unblocked.",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1179,
+      "height": 2414,
+      "file": "images/barblock/002-ss1.jpg",
+      "bytes": 163520
+    },
+    {
+      "source_page": "https://barblockapp.com",
+      "image_url": "https://barblockapp.com/screenshots_updated_in_order/ss2.PNG",
+      "alt": "BarBlock home screen after scanning a barcode, showing Apps Blocked, locked by an item, with a Scan to Unlock button.",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1179,
+      "height": 2556,
+      "file": "images/barblock/003-ss2.png",
+      "bytes": 436755
+    }
+  ],
+  "blocked": [
+    "barblock.app"
+  ]
+}

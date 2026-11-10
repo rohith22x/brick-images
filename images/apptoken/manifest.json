@@ -1,0 +1,82 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://apptoken.co/og-image.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/apptoken/001-og-image.png",
+      "bytes": 277204
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/_next/image?url=%2Fapp-blocker-phone-interface-optimized.jpg&w=1920&q=75",
+      "alt": "Phone showing scattered app icons representing digital distractions",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 406,
+      "height": 800,
+      "file": "images/apptoken/002-image.jpg",
+      "bytes": 44306
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/_next/image?url=%2Fapp-blocker-phone-interface-optimized.jpg&w=640&q=75",
+      "alt": "Phone showing all apps available for selection",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 406,
+      "height": 800,
+      "file": "images/apptoken/003-image.jpg",
+      "bytes": 44306
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/_next/image?url=%2Fphone-addiction-blocker-nfc-device-optimized.jpg&w=640&q=75",
+      "alt": "Token device with focus activation capability next to keyboard",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 450,
+      "height": 600,
+      "file": "images/apptoken/004-image.jpg",
+      "bytes": 27863
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/_next/image?url=%2Fphone-screen-time-app-mockup-optimized.jpg&w=640&q=75",
+      "alt": "Phone with organized, focused interface showing essential apps only",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 406,
+      "height": 800,
+      "file": "images/apptoken/005-image.jpg",
+      "bytes": 39864
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/_next/image?url=%2Fphone-addiction-blocker-nfc-device-optimized.jpg&w=1920&q=75",
+      "alt": "Token device - digital wellness tool",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 450,
+      "height": 600,
+      "file": "images/apptoken/006-image.jpg",
+      "bytes": 19549
+    },
+    {
+      "source_page": "https://www.apptoken.co",
+      "image_url": "https://www.apptoken.co/favicon-512x512.png",
+      "alt": "",
+      "found_in": "link[apple-touch-icon]",
+      "original_format": "PNG",
+      "width": 512,
+      "height": 512,
+      "file": "images/apptoken/007-favicon-512x512.png",
+      "bytes": 14828
+    }
+  ],
+  "blocked": []
+}

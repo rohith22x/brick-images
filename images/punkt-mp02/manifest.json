@@ -1,0 +1,136 @@
+{
+  "images": [
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/best-dumbphones.BypZfNeG_Ud0hr.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/punkt-mp02/001-best-dumbphones.BypZfNeG_Ud0hr.jpg",
+      "bytes": 45735
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/best-dumbphones.BypZfNeG_ZHqDcP.webp",
+      "alt": "A hand tapping a minimalist dumbphone whose text-only screen shows tools like Alarm, Directions, and Hotspot",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1200,
+      "height": 800,
+      "file": "images/punkt-mp02/002-best-dumbphones.BypZfNeG_ZHqDcP.jpg",
+      "bytes": 70768
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/light-phone-iii.DAR3vot-_2sB4Ya.webp",
+      "alt": "Light Phone III product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/003-light-phone-iii.DAR3vot-_2sB4Ya.jpg",
+      "bytes": 13098
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/mudita-kompakt.Dg2nr-gf_1EQziJ.webp",
+      "alt": "Mudita Kompakt product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/004-mudita-kompakt.Dg2nr-gf_1EQziJ.jpg",
+      "bytes": 11128
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/techless-wisephone-ii.CtY5zdze_Z2sDuE.webp",
+      "alt": "Techless Wisephone II product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/005-techless-wisephone-ii.CtY5zdze_Z2sDuE.jpg",
+      "bytes": 8897
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/tcl-flip-4-5g.B5p793sR_Z2fEGTs.webp",
+      "alt": "TCL Flip 4 5G product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/006-tcl-flip-4-5g.B5p793sR_Z2fEGTs.jpg",
+      "bytes": 10624
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/agm-m10.Ceu3lF7A_Z2oLtL3.webp",
+      "alt": "AGM M10 product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/007-agm-m10.Ceu3lF7A_Z2oLtL3.jpg",
+      "bytes": 11593
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/sunbeam-f1-pro.DzNPsPkI_2a8sQO.webp",
+      "alt": "Sunbeam F1 Pro product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/008-sunbeam-f1-pro.DzNPsPkI_2a8sQO.jpg",
+      "bytes": 11452
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/sonim-xp5plus-5g.KgbE9MJd_ZFqDx3.webp",
+      "alt": "Sonim XP5plus 5G product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/009-sonim-xp5plus-5g.KgbE9MJd_ZFqDx3.jpg",
+      "bytes": 12282
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/jitterbug-flip3.B-6su5jG_ZF4nDn.webp",
+      "alt": "Lively Jitterbug Flip3 product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/010-jitterbug-flip3.B-6su5jG_ZF4nDn.jpg",
+      "bytes": 14364
+    },
+    {
+      "source_page": "https://pausegadget.com/best-dumbphones/",
+      "image_url": "https://pausegadget.com/_astro/consumer-cellular-iris-easy-flip-2.pQiQuyG8_cjVg9.webp",
+      "alt": "Consumer Cellular Iris Easy Flip 2 product photo",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 400,
+      "height": 300,
+      "file": "images/punkt-mp02/011-consumer-cellular-iris-easy-flip-2.pQiQuyG8_cjVg9.jpg",
+      "bytes": 13532
+    }
+  ],
+  "blocked": []
+}

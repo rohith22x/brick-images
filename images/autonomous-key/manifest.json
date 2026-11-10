@@ -1,0 +1,142 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/metaKey.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1920,
+      "height": 1080,
+      "file": "images/autonomous-key/001-metaKey.jpg",
+      "bytes": 312046
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/260713/blue.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1920,
+      "height": 1080,
+      "file": "images/autonomous-key/002-blue.png",
+      "bytes": 297563
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/BlackCat.jpg",
+      "alt": "Black Cat",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/003-BlackCat.jpg",
+      "bytes": 62405
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/Pumpkin.jpg",
+      "alt": "Pumpkin",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/004-Pumpkin.jpg",
+      "bytes": 51457
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/Santa.jpg",
+      "alt": "Santa",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/005-Santa.jpg",
+      "bytes": 40713
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/Snowman.jpg",
+      "alt": "Snowman",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/006-Snowman.jpg",
+      "bytes": 36361
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/ChristmasTree.jpg",
+      "alt": "Christmas Tree",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/007-ChristmasTree.jpg",
+      "bytes": 47412
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/261013/Mix2.jpg",
+      "alt": "Mix 2",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 500,
+      "height": 500,
+      "file": "images/autonomous-key/008-Mix2.jpg",
+      "bytes": 16092
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/260730/1(10).webp",
+      "alt": "Lauren Forristal",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 814,
+      "height": 458,
+      "file": "images/autonomous-key/009-1-10.jpg",
+      "bytes": 52433
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/260730/2(6).webp",
+      "alt": "Kevin Cheng",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 814,
+      "height": 458,
+      "file": "images/autonomous-key/010-2-6.jpg",
+      "bytes": 113722
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/260730/3(3).webp",
+      "alt": "Hannes Brecher",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 814,
+      "height": 458,
+      "file": "images/autonomous-key/011-3-3.jpg",
+      "bytes": 55396
+    },
+    {
+      "source_page": "https://www.autonomous.ai/key",
+      "image_url": "https://cdn.autonomous.ai/production/ecm/260729/WoodleyLozamma.webp",
+      "alt": "Woodley Lozamma",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1920,
+      "height": 1080,
+      "file": "images/autonomous-key/012-WoodleyLozamma.jpg",
+      "bytes": 109227
+    }
+  ],
+  "blocked": []
+}

@@ -1,0 +1,75 @@
+{
+  "images": [
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/og.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1731,
+      "height": 909,
+      "file": "images/alafly/001-og.png",
+      "bytes": 1676246
+    },
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/hero.png",
+      "alt": "ALAFLY Tap focus device beside a phone on a bright desk",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2172,
+      "height": 724,
+      "file": "images/alafly/002-hero.png",
+      "bytes": 1273932
+    },
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/magnetic-placement.avif",
+      "alt": "ALAFLY Tap used as a visible focus reminder",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "JPG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/alafly/003-magnetic-placement.jpg",
+      "bytes": 157415
+    },
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/focus-space.avif",
+      "alt": "ALAFLY app Focus Space interface",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "JPG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/alafly/004-focus-space.jpg",
+      "bytes": 161360
+    },
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/product.jpg",
+      "alt": "ALAFLY Tap device and companion app",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1200,
+      "height": 1500,
+      "file": "images/alafly/005-product.jpg",
+      "bytes": 123782
+    },
+    {
+      "source_page": "https://getalafly.com",
+      "image_url": "https://getalafly.com/lanyard-focus.avif",
+      "alt": "ALAFLY Tap lanyard design for focus on the move",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "JPG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/alafly/006-lanyard-focus.jpg",
+      "bytes": 233884
+    }
+  ],
+  "blocked": []
+}

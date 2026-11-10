@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/PCcjMAtP2CkRCTOhRsXTqGqEM7c.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/jomo/001-PCcjMAtP2CkRCTOhRsXTqGqEM7c.png",
+      "bytes": 221877
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/juljJbNjNQp690iElKmsFb7ZI.png?width=1536&height=1024",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1536,
+      "height": 1024,
+      "file": "images/jomo/002-juljJbNjNQp690iElKmsFb7ZI.png",
+      "bytes": 473675
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/zJ2F8cE8QBSUsrdDk7Xxk98QjA.png?width=1832&height=2758",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1832,
+      "height": 2758,
+      "file": "images/jomo/003-zJ2F8cE8QBSUsrdDk7Xxk98QjA.png",
+      "bytes": 629658
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/MHE1HSxrbhztDiapATEOh2tFk.png?width=1898&height=1600",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1898,
+      "height": 1600,
+      "file": "images/jomo/004-MHE1HSxrbhztDiapATEOh2tFk.png",
+      "bytes": 350067
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/enRLBQ08vV3ZtLm2A5NkBOsQ.png?width=2566&height=2566",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2566,
+      "height": 2566,
+      "file": "images/jomo/005-enRLBQ08vV3ZtLm2A5NkBOsQ.png",
+      "bytes": 872857
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/iDnkeTkKMH2hyHg2LnHQYFZ9X4.png?width=2566&height=2566",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2566,
+      "height": 2566,
+      "file": "images/jomo/006-iDnkeTkKMH2hyHg2LnHQYFZ9X4.png",
+      "bytes": 899639
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/3sbivRRANmqGd1lIG4bvo2B3k.png?width=2566&height=2566",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2566,
+      "height": 2566,
+      "file": "images/jomo/007-3sbivRRANmqGd1lIG4bvo2B3k.png",
+      "bytes": 902206
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/JiUnaoa2Cb9y3hihKIEqTg20cp0.png?width=495&height=660",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 495,
+      "height": 660,
+      "file": "images/jomo/008-JiUnaoa2Cb9y3hihKIEqTg20cp0.png",
+      "bytes": 89162
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/n67PEg1IskNWjCxiv0mZlrPdlKc.png?width=495&height=660",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 495,
+      "height": 660,
+      "file": "images/jomo/009-n67PEg1IskNWjCxiv0mZlrPdlKc.png",
+      "bytes": 101872
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/GXEGlYGauvpEs0uxBIXhFq0io68.png?width=495&height=660",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 495,
+      "height": 660,
+      "file": "images/jomo/010-GXEGlYGauvpEs0uxBIXhFq0io68.png",
+      "bytes": 91316
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/ZKKrSaIraH5TtXhln7CLCTXLWYg.png?width=495&height=660",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 495,
+      "height": 660,
+      "file": "images/jomo/011-ZKKrSaIraH5TtXhln7CLCTXLWYg.png",
+      "bytes": 93312
+    },
+    {
+      "source_page": "https://jomo.so",
+      "image_url": "https://framerusercontent.com/images/WFdg06RxCJ8oVsUMs0qOtScXs.png?width=790&height=800",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 790,
+      "height": 800,
+      "file": "images/jomo/012-WFdg06RxCJ8oVsUMs0qOtScXs.png",
+      "bytes": 14127
+    }
+  ],
+  "blocked": []
+}

@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/og_image_2.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/habit-doom/001-og_image_2.png",
+      "bytes": 43381
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/apple_logo_black.svg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1628,
+      "height": 2000,
+      "file": "images/habit-doom/002-apple_logo_black.png",
+      "bytes": 52363
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/select_your_distracting_apps-864w.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 864,
+      "height": 1534,
+      "file": "images/habit-doom/003-select_your_distracting_apps-864w.png",
+      "bytes": 1211975
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/select_your_distracting_apps-480w.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 270,
+      "height": 480,
+      "file": "images/habit-doom/004-select_your_distracting_apps-480w.png",
+      "bytes": 122819
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/chosen_apps_are_locked_daily-864w.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 864,
+      "height": 1534,
+      "file": "images/habit-doom/005-chosen_apps_are_locked_daily-864w.png",
+      "bytes": 1117253
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/chosen_apps_are_locked_daily-480w.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 270,
+      "height": 480,
+      "file": "images/habit-doom/006-chosen_apps_are_locked_daily-480w.png",
+      "bytes": 105738
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/complete_habits_to_earn_screen_time-864w.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 864,
+      "height": 1534,
+      "file": "images/habit-doom/007-complete_habits_to_earn_screen_time-864w.png",
+      "bytes": 1273778
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/complete_habits_to_earn_screen_time-480w.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 270,
+      "height": 480,
+      "file": "images/habit-doom/008-complete_habits_to_earn_screen_time-480w.png",
+      "bytes": 133310
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/unlock_apps_with_earned_time-864w.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 864,
+      "height": 1534,
+      "file": "images/habit-doom/009-unlock_apps_with_earned_time-864w.png",
+      "bytes": 1552675
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/unlock_apps_with_earned_time-480w.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 270,
+      "height": 480,
+      "file": "images/habit-doom/010-unlock_apps_with_earned_time-480w.png",
+      "bytes": 175442
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/select_your_distracting_apps-640w.webp",
+      "alt": "Select distracting apps to lock",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 360,
+      "height": 640,
+      "file": "images/habit-doom/011-select_your_distracting_apps-640w.png",
+      "bytes": 208070
+    },
+    {
+      "source_page": "https://habitdoom.com",
+      "image_url": "https://habitdoom.com/assets_2/chosen_apps_are_locked_daily-640w.webp",
+      "alt": "Apps are locked every midnight automatically",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 360,
+      "height": 640,
+      "file": "images/habit-doom/012-chosen_apps_are_locked_daily-640w.png",
+      "bytes": 182191
+    }
+  ],
+  "blocked": []
+}

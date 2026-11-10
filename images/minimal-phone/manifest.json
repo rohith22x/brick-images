@@ -1,0 +1,138 @@
+{
+  "images": [
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/10-Minimalist-Phones-You-Can-Actually-Buy-Right-Now.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/001-10-Minimalist-Phones-You-Can-Actually-Buy-Right-No.jpg",
+      "bytes": 57022
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/themes/gadgeteer/assets/img/gadgeteer-logo.svg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 4144,
+      "height": 600,
+      "file": "images/minimal-phone/002-gadgeteer-logo.png",
+      "bytes": 96375
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Light-Phone-III.jpg",
+      "alt": "Light Phone III",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/003-Light-Phone-III.jpg",
+      "bytes": 98273
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Mudita-Kompakt.jpg",
+      "alt": "Mudita Kompakt",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/004-Mudita-Kompakt.jpg",
+      "bytes": 145123
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Minimal-Phone.jpg",
+      "alt": "Minimal Phone",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 770,
+      "file": "images/minimal-phone/005-Minimal-Phone.jpg",
+      "bytes": 193034
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Punkt.-MP02-4G-Dumb-Phone.jpg",
+      "alt": "Punkt. MP02 4G Dumb Phone",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/006-Punkt.-MP02-4G-Dumb-Phone.jpg",
+      "bytes": 265845
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Wisephone-II.jpeg",
+      "alt": "Wisephone II",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1044,
+      "file": "images/minimal-phone/007-Wisephone-II.jpg",
+      "bytes": 155674
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Sunbeam-F1.jpg",
+      "alt": "Sunbeam F1",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 935,
+      "file": "images/minimal-phone/008-Sunbeam-F1.jpg",
+      "bytes": 132606
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Nokia-2780-Flip-.jpg",
+      "alt": "Nokia 2780 Flip",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 900,
+      "file": "images/minimal-phone/009-Nokia-2780-Flip.jpg",
+      "bytes": 41546
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/Qin-3-Ultra-Android-12-Smart-button-mobile-phone.jpeg",
+      "alt": "Qin 3 Ultra Android 12 Smart button mobile phone",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/010-Qin-3-Ultra-Android-12-Smart-button-mobile-phone.jpg",
+      "bytes": 115372
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/06/TracFone-TCL-Flip-2-8GB-Black-Prepaid-Flip-Phone.jpg",
+      "alt": "TracFone TCL Flip 2 8GB Black Prepaid Flip Phone",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/minimal-phone/011-TracFone-TCL-Flip-2-8GB-Black-Prepaid-Flip-Phone.jpg",
+      "bytes": 98138
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/06/28/best-minimalist-phones-2026/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/microtech-hawk-auto-166-10-hero.jpg",
+      "alt": "Microtech Hawk Auto 166-10 open, showing the M390MK hawkbill blade and 3M grip tape inlays",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1440,
+      "height": 810,
+      "file": "images/minimal-phone/012-microtech-hawk-auto-166-10-hero.jpg",
+      "bytes": 35717
+    }
+  ],
+  "blocked": []
+}

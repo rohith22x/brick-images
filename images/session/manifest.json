@@ -1,0 +1,93 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/open-graph.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 2000,
+      "height": 1113,
+      "file": "images/session/001-open-graph.png",
+      "bytes": 975547
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/logo.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 512,
+      "height": 512,
+      "file": "images/session/002-logo.png",
+      "bytes": 44672
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/ios-download-qr-code.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 456,
+      "height": 456,
+      "file": "images/session/003-ios-download-qr-code.png",
+      "bytes": 17965
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/xdr.jpg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 2800,
+      "height": 1229,
+      "file": "images/session/004-xdr.jpg",
+      "bytes": 232087
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/iphone-timer.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1076,
+      "height": 2009,
+      "file": "images/session/005-iphone-timer.png",
+      "bytes": 352437
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/block-web.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1800,
+      "height": 1543,
+      "file": "images/session/006-block-web.png",
+      "bytes": 731807
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/ipad-review.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2234,
+      "height": 1709,
+      "file": "images/session/007-ipad-review.png",
+      "bytes": 277344
+    },
+    {
+      "source_page": "https://www.stayinsession.com",
+      "image_url": "https://www.stayinsession.com/hero.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1691,
+      "height": 1036,
+      "file": "images/session/008-hero.png",
+      "bytes": 238970
+    }
+  ],
+  "blocked": []
+}

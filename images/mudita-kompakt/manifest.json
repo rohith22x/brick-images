@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/6Ka1Wcct32Qyha8Wugc23I/6526374a0c4906b036c5b67b83a94743/01_mudita.jpg?w=1200&h=630&fl=progressive&q=50&fm=jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/mudita-kompakt/001-01_mudita.jpg",
+      "bytes": 37428
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://www.facebook.com/tr?id=758375772942853&ev=PageView&noscript=1",
+      "alt": "",
+      "found_in": "img[src]",
+      "skipped": "not a readable image (UnidentifiedImageError)"
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "data:image/svg+xml;charset=utf-8,%3Csvg height='1223' width='3584' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 7168,
+      "height": 2446,
+      "file": "images/mudita-kompakt/002-inline.png",
+      "bytes": 68353
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/Ac3jqwqdn97Tg6k41HOJc/58fe01aabea30a346fbaa2278b093fff/homepage-hero-dhamma-desktop.jpg?w=3584&h=1223&fl=progressive&q=90&fm=jpg",
+      "alt": "Mudita Dhamma Automatic watch with a brown leather strap resting in folds of terracotta fabric",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1223,
+      "file": "images/mudita-kompakt/003-homepage-hero-dhamma-desktop.jpg",
+      "bytes": 476416
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "data:image/svg+xml;charset=utf-8,%3Csvg height='1224' width='3584' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 7168,
+      "height": 2448,
+      "file": "images/mudita-kompakt/004-inline.png",
+      "bytes": 68409
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/7su7d4vjtMEhD6L6dNZ9gQ/b528acd3901ac62144c692e51de0209f/homepage-hero-muditaos-k-2-0-desktop.jpg?w=3584&h=1224&fl=progressive&q=90&fm=jpg",
+      "alt": "Mudita Kompakt with MuditaOS K 2.0 held in a hand in a cafe (desktop)",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1224,
+      "file": "images/mudita-kompakt/005-homepage-hero-muditaos-k-2-0-desktop.jpg",
+      "bytes": 298450
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/7zHLwtB1ch1WRDK4uf0VKs/872c6e5d6d7a7f6bb70058c30f7857f1/homepage-hero-oasis-desktop.jpg?w=3584&h=1223&fl=progressive&q=90&fm=jpg",
+      "alt": "HP26 Figma Hero: Mudita Oasis desktop",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1223,
+      "file": "images/mudita-kompakt/006-homepage-hero-oasis-desktop.jpg",
+      "bytes": 378110
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/4f5gQoueBYeY19BFuvr2sE/beb433b3835b92614c6c8bbc8a5d808b/homepage-hero-os-k-1-6-desktop.jpg?w=3584&h=1223&fl=progressive&q=90&fm=jpg",
+      "alt": "HP26 Figma Hero: MuditaOS K 1.6 desktop",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1223,
+      "file": "images/mudita-kompakt/007-homepage-hero-os-k-1-6-desktop.jpg",
+      "bytes": 273573
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/0NfOnrpjCJcLzG951UZcQ/59d7e1dc672959f884d250f6120f2eab/homepage-hero-radiant-desktop.jpg?w=3584&h=1223&fl=progressive&q=90&fm=jpg",
+      "alt": "HP26 Figma Hero: Mudita Radiant desktop",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1223,
+      "file": "images/mudita-kompakt/008-homepage-hero-radiant-desktop.jpg",
+      "bytes": 331354
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://images.ctfassets.net/isxmxtc67n72/2oR7Gk21qTUCGbVWf7qXNI/1fc4972ec8ade979fd0181cd732cdb3d/homepage-hero-bell-2-desktop.jpg?w=3584&h=1223&fl=progressive&q=90&fm=jpg",
+      "alt": "HP26 Figma Hero: Mudita Bell 2 desktop",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3584,
+      "height": 1223,
+      "file": "images/mudita-kompakt/009-homepage-hero-bell-2-desktop.jpg",
+      "bytes": 270070
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "https://mudita.com/static/adesign-award-competition-434677de8445e52e13d65578bab7d12c.png",
+      "alt": "Adesign 2022",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 300,
+      "height": 250,
+      "file": "images/mudita-kompakt/010-adesign-award-competition-434677de8445e52e13d65578.png",
+      "bytes": 4318
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "data:image/svg+xml;charset=utf-8,%3Csvg height='2048' width='3071.4001171646164' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 6143,
+      "height": 4096,
+      "file": "images/mudita-kompakt/011-inline.png",
+      "bytes": 98047
+    },
+    {
+      "source_page": "https://mudita.com",
+      "image_url": "data:image/svg+xml;charset=utf-8,%3Csvg height='2048' width='2048' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 4096,
+      "height": 4096,
+      "file": "images/mudita-kompakt/012-inline.png",
+      "bytes": 65401
+    }
+  ],
+  "blocked": []
+}

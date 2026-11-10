@@ -1,0 +1,138 @@
+{
+  "images": [
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/4-Minimalist-Phones-That-Arent-Toys-and-One-You-Should-Skip.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 896,
+      "file": "images/wisephone-ii/001-4-Minimalist-Phones-That-Arent-Toys-and-One-You-Sh.jpg",
+      "bytes": 245319
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/themes/gadgeteer/assets/img/gadgeteer-logo.svg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 4144,
+      "height": 600,
+      "file": "images/wisephone-ii/002-gadgeteer-logo.png",
+      "bytes": 96375
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/Light-Phone-III.jpg",
+      "alt": "Light Phone III",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 778,
+      "file": "images/wisephone-ii/003-Light-Phone-III.jpg",
+      "bytes": 155103
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/The-Minimal-Phone.jpg",
+      "alt": "The Minimal Phone",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 819,
+      "file": "images/wisephone-ii/004-The-Minimal-Phone.jpg",
+      "bytes": 108133
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/Mudita-Kompakt.jpg",
+      "alt": "Mudita Kompakt",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 783,
+      "file": "images/wisephone-ii/005-Mudita-Kompakt.jpg",
+      "bytes": 120242
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/05/Wisephone-II.jpeg",
+      "alt": "Wisephone II",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1042,
+      "file": "images/wisephone-ii/006-Wisephone-II.jpg",
+      "bytes": 155492
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/microtech-hawk-auto-166-10-hero.jpg",
+      "alt": "Microtech Hawk Auto 166-10 open, showing the M390MK hawkbill blade and 3M grip tape inlays",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1440,
+      "height": 810,
+      "file": "images/wisephone-ii/007-microtech-hawk-auto-166-10-hero.jpg",
+      "bytes": 35717
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/microtech-hawk-auto-166-10-hero-800x450.jpg",
+      "alt": "Microtech Hawk Auto 166-10 open, showing the M390MK hawkbill blade and 3M grip tape inlays",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 800,
+      "height": 450,
+      "file": "images/wisephone-ii/008-microtech-hawk-auto-166-10-hero-800x450.jpg",
+      "bytes": 7036
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/spyderco-manix-2-magnamax-hero.jpg",
+      "alt": "Spyderco Manix 2 folding knife with CPM MagnaMax blade and black G-10 handle",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1440,
+      "height": 810,
+      "file": "images/wisephone-ii/009-spyderco-manix-2-magnamax-hero.jpg",
+      "bytes": 84307
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/spyderco-manix-2-magnamax-hero-800x450.jpg",
+      "alt": "Spyderco Manix 2 folding knife with CPM MagnaMax blade and black G-10 handle",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 800,
+      "height": 450,
+      "file": "images/wisephone-ii/010-spyderco-manix-2-magnamax-hero-800x450.jpg",
+      "bytes": 12390
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/shark-cub-hero.jpg",
+      "alt": "Demko Shark-Cub folding knife with Shark Foot blade, open and closed",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1440,
+      "height": 810,
+      "file": "images/wisephone-ii/011-shark-cub-hero.jpg",
+      "bytes": 80262
+    },
+    {
+      "source_page": "https://the-gadgeteer.com/2026/05/05/4-minimalist-phones-that-arent-toys-and-one-you-should-skip/",
+      "image_url": "https://the-gadgeteer.com/wp-content/uploads/2026/11/shark-cub-hero-800x450.jpg",
+      "alt": "Demko Shark-Cub folding knife with Shark Foot blade, open and closed",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 800,
+      "height": 450,
+      "file": "images/wisephone-ii/012-shark-cub-hero-800x450.jpg",
+      "bytes": 11883
+    }
+  ],
+  "blocked": []
+}

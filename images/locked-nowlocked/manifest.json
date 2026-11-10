@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "http://nowlocked.com/cdn/shop/files/Frame_1948755018_2.png?v=1748911765",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 2400,
+      "height": 1260,
+      "file": "images/locked-nowlocked/001-Frame_1948755018_2.png",
+      "bytes": 1808044
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Frame_2095585388.png?v=1786172595&width=1400",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1400,
+      "height": 1400,
+      "file": "images/locked-nowlocked/002-Frame_2095585388.png",
+      "bytes": 1300636
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Frame_2095585387.png?v=1786172602&width=1400",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1400,
+      "height": 1400,
+      "file": "images/locked-nowlocked/003-Frame_2095585387.png",
+      "bytes": 765617
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Frame_2095585344_4_1d63d61e-3d0b-4d1c-8b4c-1bbd6bbdd9aa.png?v=1773743851&width=1200",
+      "alt": "Meet Locked",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 800,
+      "height": 645,
+      "file": "images/locked-nowlocked/004-Frame_2095585344_4_1d63d61e-3d0b-4d1c-8b4c-1bbd6bb.png",
+      "bytes": 355882
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Group_1707479068_1.png?v=1773897119&width=1200",
+      "alt": "\"But my phone can already do that...\"",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 1091,
+      "file": "images/locked-nowlocked/005-Group_1707479068_1.png",
+      "bytes": 648839
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Image4_3.png?v=1785755562&width=900",
+      "alt": "AJ C.",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 1117,
+      "file": "images/locked-nowlocked/006-Image4_3.png",
+      "bytes": 1191575
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/IMG_2010.heic?v=1786184863&width=900",
+      "alt": "Logan H.",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 1200,
+      "file": "images/locked-nowlocked/007-IMG_2010.jpg",
+      "bytes": 96422
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Image2.png?v=1785755563&width=900",
+      "alt": "Salima N.",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 1117,
+      "file": "images/locked-nowlocked/008-Image2.png",
+      "bytes": 1233344
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Screenshot_2026-08-06_at_9.31.34_PM.png?v=1786015904&width=900",
+      "alt": "Cath R.",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 1059,
+      "file": "images/locked-nowlocked/009-Screenshot_2026-08-06_at_9.31.34_PM.png",
+      "bytes": 1256745
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/IMG_4396.jpg?v=1747383995&width=900",
+      "alt": "Julian J.",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 1200,
+      "file": "images/locked-nowlocked/010-IMG_4396.jpg",
+      "bytes": 147484
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/hf_20260426_061911_227c4e11-470b-40c6-a27c-0493685671a0_1_2_2.png?v=1786014428&width=900",
+      "alt": "Ava B.",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 357,
+      "height": 528,
+      "file": "images/locked-nowlocked/011-hf_20260426_061911_227c4e11-470b-40c6-a27c-0493685.png",
+      "bytes": 329101
+    },
+    {
+      "source_page": "https://nowlocked.com",
+      "image_url": "https://nowlocked.com/cdn/shop/files/Frame_6_1.png?v=1769429287&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1600,
+      "height": 1600,
+      "file": "images/locked-nowlocked/012-Frame_6_1.png",
+      "bytes": 343848
+    }
+  ],
+  "blocked": []
+}

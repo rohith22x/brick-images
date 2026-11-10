@@ -1,0 +1,139 @@
+{
+  "images": [
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "http://enterphase.app/cdn/shop/files/phaseimg.png?v=1763899626&width=2048",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 837,
+      "height": 494,
+      "file": "images/phase/001-phaseimg.png",
+      "bytes": 102373
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/phaseimg.png?crop=center&height=1200&v=1763899626&width=1200",
+      "alt": "",
+      "found_in": "meta:twitter:image",
+      "original_format": "PNG",
+      "width": 837,
+      "height": 494,
+      "file": "images/phase/002-phaseimg.png",
+      "bytes": 102373
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/Logo_1.svg?v=1762210935&width=300",
+      "alt": "Phase | The Physical Solution for Less Screen Time",
+      "found_in": "img[srcset]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1820,
+      "height": 649,
+      "file": "images/phase/003-Logo_1.png",
+      "bytes": 47268
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/Logo_1.svg?v=1762210935&width=910",
+      "alt": "Phase | The Physical Solution for Less Screen Time",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1820,
+      "height": 649,
+      "file": "images/phase/004-Logo_1.png",
+      "bytes": 47268
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/phase-home-hero-4k.jpg?v=1792812935&width=4096",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 4096,
+      "height": 2304,
+      "file": "images/phase/005-phase-home-hero-4k.jpg",
+      "bytes": 598942
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/phase-home-hero-4k.jpg?v=1792812935&width=1800",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1800,
+      "height": 1013,
+      "file": "images/phase/006-phase-home-hero-4k.jpg",
+      "bytes": 244827
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/phase-home-hero-mobile.jpg?v=1792767874&width=1300",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1152,
+      "height": 2048,
+      "file": "images/phase/007-phase-home-hero-mobile.jpg",
+      "bytes": 380002
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/phase-home-hero-mobile.jpg?v=1792767874&width=900",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 1600,
+      "file": "images/phase/008-phase-home-hero-mobile.jpg",
+      "bytes": 297585
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/image-1785869860262.png?v=1785871630&width=640",
+      "alt": "StreetInsider",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 640,
+      "height": 645,
+      "file": "images/phase/009-image-1785869860262.png",
+      "bytes": 26020
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/Business_Insider_Image.webp?v=1785871630&width=640",
+      "alt": "AP News",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 540,
+      "height": 204,
+      "file": "images/phase/010-Business_Insider_Image.png",
+      "bytes": 15511
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/Zwarte_Text_Logo_Aug_4_2026.png?v=1785871621&width=640",
+      "alt": "Lotgenoten Podcast",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 640,
+      "height": 576,
+      "file": "images/phase/011-Zwarte_Text_Logo_Aug_4_2026.png",
+      "bytes": 204588
+    },
+    {
+      "source_page": "https://enterphase.app",
+      "image_url": "https://enterphase.app/cdn/shop/files/Forbes_750x468_27a92921-8d7c-4fd1-bdac-3e73b4a32167.webp?v=1785871630&width=640",
+      "alt": "Barchart",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 640,
+      "height": 399,
+      "file": "images/phase/012-Forbes_750x468_27a92921-8d7c-4fd1-bdac-3e73b4a3216.png",
+      "bytes": 17367
+    }
+  ],
+  "blocked": []
+}

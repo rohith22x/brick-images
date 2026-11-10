@@ -1,0 +1,139 @@
+{
+  "images": [
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Best-dumb-phones-you-can-buy.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 800,
+      "file": "images/nokia-tcl-flips/001-Best-dumb-phones-you-can-buy.png",
+      "bytes": 758380
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Best-dumb-phones-you-can-buy-1024x683.png?x96268",
+      "alt": "Best dumb phones you can buy",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 683,
+      "file": "images/nokia-tcl-flips/002-Best-dumb-phones-you-can-buy-1024x683.png",
+      "bytes": 578654
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2025/03/Minimalist-Light-Phone-3.png",
+      "alt": "Minimalist Light Phone 3",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1600,
+      "height": 1042,
+      "file": "images/nokia-tcl-flips/003-Minimalist-Light-Phone-3.png",
+      "bytes": 2478527
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2025/03/Minimalist-Light-Phone-3-1024x667.png?x96268",
+      "alt": "Minimalist Light Phone 3",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 667,
+      "file": "images/nokia-tcl-flips/004-Minimalist-Light-Phone-3-1024x667.png",
+      "bytes": 955936
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2025/03/Minimalist-Light-Phone-3-.png",
+      "alt": "Minimalist Light Phone 3",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1300,
+      "height": 928,
+      "file": "images/nokia-tcl-flips/005-Minimalist-Light-Phone-3.png",
+      "bytes": 422226
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2025/03/Minimalist-Light-Phone-3--1024x731.png?x96268",
+      "alt": "Minimalist Light Phone 3",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 731,
+      "file": "images/nokia-tcl-flips/006-Minimalist-Light-Phone-3--1024x731.png",
+      "bytes": 253840
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2023/05/Nokia2660Flip_8.webp",
+      "alt": "Nokia 2660 flip phone",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 768,
+      "height": 512,
+      "file": "images/nokia-tcl-flips/007-Nokia2660Flip_8.jpg",
+      "bytes": 45806
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2023/05/Nokia2660Flip_8.webp?x96268",
+      "alt": "Nokia 2660 flip phone",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 768,
+      "height": 512,
+      "file": "images/nokia-tcl-flips/008-Nokia2660Flip_8.jpg",
+      "bytes": 45806
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Nokia-2660-Flip-4G.png",
+      "alt": "Nokia 2660 Flip 4G",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 800,
+      "file": "images/nokia-tcl-flips/009-Nokia-2660-Flip-4G.png",
+      "bytes": 206534
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Nokia-2660-Flip-4G-1024x683.png?x96268",
+      "alt": "Nokia 2660 Flip 4G",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 683,
+      "file": "images/nokia-tcl-flips/010-Nokia-2660-Flip-4G-1024x683.png",
+      "bytes": 150857
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Nokia-110-4G-2024.png",
+      "alt": "Nokia 110 4G (2024)",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 800,
+      "file": "images/nokia-tcl-flips/011-Nokia-110-4G-2024.png",
+      "bytes": 299340
+    },
+    {
+      "source_page": "https://gizmochina.com/2026/07/16/the-best-dumb-phones-you-can-buy/",
+      "image_url": "https://www.gizmochina.com/wp-content/uploads/2026/07/Nokia-110-4G-2024-1024x683.png?x96268",
+      "alt": "Nokia 110 4G (2024)",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 683,
+      "file": "images/nokia-tcl-flips/012-Nokia-110-4G-2024-1024x683.png",
+      "bytes": 218428
+    }
+  ],
+  "blocked": []
+}

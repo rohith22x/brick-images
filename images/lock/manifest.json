@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "source_page": "https://lock-app.fr",
+      "image_url": "https://lock-app.fr/og-image.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 628,
+      "file": "images/lock/001-og-image.jpg",
+      "bytes": 39350
+    },
+    {
+      "source_page": "https://lock-app.fr",
+      "image_url": "https://lock-app.fr/og-image.webp",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1200,
+      "height": 628,
+      "file": "images/lock/002-og-image.jpg",
+      "bytes": 64812
+    },
+    {
+      "source_page": "https://lock-app.fr",
+      "image_url": "https://lock-app.fr/photo_lock_3.webp",
+      "alt": "A hand holding a phone tapping an NFC tag",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 2699,
+      "height": 3750,
+      "file": "images/lock/003-photo_lock_3.png",
+      "bytes": 2470397
+    },
+    {
+      "source_page": "https://lock-app.fr",
+      "image_url": "https://lock-app.fr/no_unlock_button.webp",
+      "alt": "Lock screen: Instagram is locked, with no way to bypass the limit",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1080,
+      "height": 2181,
+      "file": "images/lock/004-no_unlock_button.jpg",
+      "bytes": 83321
+    }
+  ],
+  "blocked": []
+}

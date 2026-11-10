@@ -1,0 +1,146 @@
+{
+  "images": [
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/OG.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 2400,
+      "height": 1260,
+      "file": "images/appblock/001-OG.png",
+      "bytes": 1648746
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/themes/appblock/assets/images/header-banner-phone.png",
+      "alt": "Phone",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 320,
+      "height": 650,
+      "file": "images/appblock/002-header-banner-phone.png",
+      "bytes": 8133
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20340%20690'%3E%3C/svg%3E",
+      "alt": "Redefine your smartphone habits.",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 680,
+      "height": 1380,
+      "file": "images/appblock/003-inline.png",
+      "bytes": 3736
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2025/05/Phone-screen-0x690-c-default.png",
+      "alt": "Redefine your smartphone habits.",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "PNG",
+      "width": 340,
+      "height": 690,
+      "file": "images/appblock/004-Phone-screen-0x690-c-default.png",
+      "bytes": 77372
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20202'%3E%3C/svg%3E",
+      "alt": "School",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/005-inline.png",
+      "bytes": 1351
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/S.svg",
+      "alt": "School",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/006-S.png",
+      "bytes": 32308
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/W.svg",
+      "alt": "Work",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/007-W.png",
+      "bytes": 27775
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/AH.svg",
+      "alt": "At Home",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/008-AH.png",
+      "bytes": 37429
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/MM.svg",
+      "alt": "Mindful Morning",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/009-MM.png",
+      "bytes": 34813
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/TFM.svg",
+      "alt": "Time for Myself",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/010-TFM.png",
+      "bytes": 34256
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "https://appblock.app/wp-content/uploads/2024/04/DD.svg",
+      "alt": "Digital Detox",
+      "found_in": "img[data-lazy-src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 800,
+      "height": 404,
+      "file": "images/appblock/011-DD.png",
+      "bytes": 32622
+    },
+    {
+      "source_page": "https://appblock.app",
+      "image_url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20286%20679'%3E%3C/svg%3E",
+      "alt": "Mobile",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 572,
+      "height": 1358,
+      "file": "images/appblock/012-inline.png",
+      "bytes": 3110
+    }
+  ],
+  "blocked": []
+}

@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.thelightphone.com",
+      "image_url": "https://www.thelightphone.com/assets/images/social-share-card-flip.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 720,
+      "height": 481,
+      "file": "images/light-phone-iii/001-social-share-card-flip.jpg",
+      "bytes": 325833
+    }
+  ],
+  "blocked": []
+}

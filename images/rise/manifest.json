@@ -1,0 +1,132 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/opengraph-image",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/rise/001-opengraph-image.png",
+      "bytes": 33226
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Ficon.png&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/rise/002-image.png",
+      "bytes": 38342
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Fhome-locked.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "Rise before getting up: apps locked, 64 of 100 steps walked, with Snap to Unlock as the other way in.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/003-image.jpg",
+      "bytes": 161485
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Fhome-unlocked.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "Rise after getting up: You\u2019re up, unlocked at 6:52 AM by walking, with today\u2019s steps and a weekly streak.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/004-image.jpg",
+      "bytes": 141094
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Fmorning-routines.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "Rise morning routines: Slow weekends at 7:00 AM and Work mornings at 6:30 AM on weekdays.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/005-image.jpg",
+      "bytes": 135010
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Fprogress-calendar.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "Rise wake-up journey: 29 days unlocked in October, with a calendar of earlier, consistent and later mornings.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/006-image.jpg",
+      "bytes": 163572
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Ftime-to-get-up.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "A blocked app in the morning: Time to get up. Walk 100 steps or take a photo in Rise to get your apps back.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/007-image.jpg",
+      "bytes": 68088
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fapp-blocking-app.jpg&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "An iPhone showing the Safari icon, surrounded by a pile of social and streaming app icons each marked with a red no-entry sign",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 720,
+      "file": "images/rise/008-image.jpg",
+      "bytes": 52171
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fdoes-apple-screen-time-work.jpg&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "A blurred photo of hands holding an iPhone showing the Screen Time app, reading 'Elizabeth's iPhone' at 2h 45m today, broken down by Social Networking, Entertainment and Productivity",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1215,
+      "height": 1215,
+      "file": "images/rise/009-image.jpg",
+      "bytes": 57042
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fhow-to-stop-scrolling-in-bed.jpg&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "An overhead shot of a made bed with the headline 'How To Stop Scrolling In Bed?', with sneakers and a jacket dropped on the floor beside a bedside lamp",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1215,
+      "height": 1215,
+      "file": "images/rise/010-image.jpg",
+      "bytes": 88261
+    },
+    {
+      "source_page": "https://www.risemorningroutine.com",
+      "image_url": "https://www.risemorningroutine.com/_next/image?url=%2Fscreens%2Ffirst-morning.webp&w=3840&q=75&dpl=dpl_7aMAVb9LMZVnBEu97Pi9QAanSKxr",
+      "alt": "Rise setup: Focused mornings start tomorrow, with a 6:30 AM first morning on weekdays and a 100-step unlock.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1956,
+      "file": "images/rise/011-image.jpg",
+      "bytes": 145065
+    }
+  ],
+  "blocked": []
+}

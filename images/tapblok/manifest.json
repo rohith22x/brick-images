@@ -1,0 +1,27 @@
+{
+  "images": [
+    {
+      "source_page": "https://tapblok.com",
+      "image_url": "https://tapblok.com/feature_graphic.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 500,
+      "file": "images/tapblok/001-feature_graphic.png",
+      "bytes": 52786
+    },
+    {
+      "source_page": "https://tapblok.com",
+      "image_url": "https://tapblok.com/icon.png",
+      "alt": "",
+      "found_in": "link[apple-touch-icon]",
+      "original_format": "PNG",
+      "width": 512,
+      "height": 512,
+      "file": "images/tapblok/002-icon.png",
+      "bytes": 80734
+    }
+  ],
+  "blocked": []
+}

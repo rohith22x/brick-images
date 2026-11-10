@@ -1,0 +1,141 @@
+{
+  "images": [
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a1445cc60a96baf729c82f3_thumbnail%20(1)%201.webp",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1920,
+      "height": 1080,
+      "file": "images/opal/001-6a1445cc60a96baf729c82f3_thumbnail-1-1.jpg",
+      "bytes": 243004
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/693a9f58e3851420a97a8a54_Apple-Design-Awards-White.png",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1434,
+      "height": 569,
+      "file": "images/opal/002-693a9f58e3851420a97a8a54_Apple-Design-Awards-White.png",
+      "bytes": 43298
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6ad0a14a46f3a9ba91562de9_Opal_Blue_Glow%20Small.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 320,
+      "height": 320,
+      "file": "images/opal/003-6ad0a14a46f3a9ba91562de9_Opal_Blue_Glow-Small.png",
+      "bytes": 51903
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6ad09d847baedeb426364ba3_NewHome.png",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 2379,
+      "height": 2215,
+      "file": "images/opal/004-6ad09d847baedeb426364ba3_NewHome.png",
+      "bytes": 2707530
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a0f4ba9d5acd11627a02099_Frame%201171280249.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 494,
+      "height": 1020,
+      "file": "images/opal/005-6a0f4ba9d5acd11627a02099_Frame-1171280249.png",
+      "bytes": 585495
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/663fb9cfd48ced9107a3d84b_ice-glow.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 2000,
+      "height": 1511,
+      "file": "images/opal/006-663fb9cfd48ced9107a3d84b_ice-glow.png",
+      "bytes": 2520937
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a0f2fc43e20a72f710dca32_Mockup%20Container-1.png",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 1428,
+      "file": "images/opal/007-6a0f2fc43e20a72f710dca32_Mockup-Container-1.png",
+      "bytes": 704567
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a0f4bba74a1ced3868b93a3_Frame%201171280247.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 494,
+      "height": 1022,
+      "file": "images/opal/008-6a0f4bba74a1ced3868b93a3_Frame-1171280247.png",
+      "bytes": 309121
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/663fb9cff782fc93b5c061bd_blue-glow.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 2000,
+      "height": 1552,
+      "file": "images/opal/009-663fb9cff782fc93b5c061bd_blue-glow.png",
+      "bytes": 1956555
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a0f2fea26b436f696b6675d_Mockup%20Container-2.png",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1240,
+      "height": 1456,
+      "file": "images/opal/010-6a0f2fea26b436f696b6675d_Mockup-Container-2.png",
+      "bytes": 1054485
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/6a0f4cb2991fdeee2e3cffb3_Frame%201171280248.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 494,
+      "height": 1022,
+      "file": "images/opal/011-6a0f4cb2991fdeee2e3cffb3_Frame-1171280248.png",
+      "bytes": 563104
+    },
+    {
+      "source_page": "https://opalapp.com",
+      "image_url": "https://cdn.prod.website-files.com/5ffc51a847b677701a3da52b/663b83f8102cc221877b093d_blue-glow.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 3000,
+      "height": 2328,
+      "file": "images/opal/012-663b83f8102cc221877b093d_blue-glow.png",
+      "bytes": 4990545
+    }
+  ],
+  "blocked": []
+}

@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/opengraph-image?4377a4c700ef31d3",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 675,
+      "file": "images/mado/001-opengraph-image.png",
+      "bytes": 76228
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/twitter-image?5cebe084b8b184b2",
+      "alt": "",
+      "found_in": "meta:twitter:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 675,
+      "file": "images/mado/002-twitter-image.png",
+      "bytes": 76228
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/screens/home.png",
+      "alt": "Mado home: three hours reclaimed today, twelve pauses declined, a ninety-day streak, and a Deep Focus card to block your apps on demand",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 820,
+      "height": 1775,
+      "file": "images/mado/003-home.png",
+      "bytes": 112473
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/bezel/orange.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1350,
+      "height": 2760,
+      "file": "images/mado/004-orange.png",
+      "bytes": 121262
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/screens/shield.png",
+      "alt": "The Mado pause window: close the app, or use it for fifteen minutes",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 820,
+      "height": 1775,
+      "file": "images/mado/005-shield.png",
+      "bytes": 123967
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/bezel/silver.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1350,
+      "height": 2760,
+      "file": "images/mado/006-silver.png",
+      "bytes": 103465
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/screens/scheduler.png",
+      "alt": "Mado's schedule: choose Always or Scheduled, with presets for weekday work hours, a nightly wind-down, and custom days and times",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 820,
+      "height": 1775,
+      "file": "images/mado/007-scheduler.png",
+      "bytes": 124480
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/screens/insights.png",
+      "alt": "Mado Insights ranking the apps that interrupt you most, such as Instagram, TikTok, and YouTube, paused versus allowed",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 820,
+      "height": 1775,
+      "file": "images/mado/008-insights.png",
+      "bytes": 126492
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/garden/bonsai-1.png",
+      "alt": "Bonsai, seed",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 720,
+      "height": 720,
+      "file": "images/mado/009-bonsai-1.png",
+      "bytes": 107617
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/garden/bonsai-2.png",
+      "alt": "Bonsai, sprout",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 720,
+      "height": 720,
+      "file": "images/mado/010-bonsai-2.png",
+      "bytes": 109745
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/garden/bonsai-3.png",
+      "alt": "Bonsai, sapling",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 720,
+      "height": 720,
+      "file": "images/mado/011-bonsai-3.png",
+      "bytes": 116239
+    },
+    {
+      "source_page": "https://usemado.app",
+      "image_url": "https://usemado.app/garden/bonsai-4.png",
+      "alt": "Bonsai, in leaf",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 720,
+      "height": 720,
+      "file": "images/mado/012-bonsai-4.png",
+      "bytes": 132819
+    }
+  ],
+  "blocked": []
+}

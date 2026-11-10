@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "http://screenzen.co/cdn/shop/files/halo-product-01.jpg?v=1782358791",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "file": "images/screenzen-halo/001-halo-product-01.jpg",
+      "bytes": 42603
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-device-tooltip-v4.png?v=1774997064&width=2000",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 960,
+      "height": 840,
+      "file": "images/screenzen-halo/002-halo-device-tooltip-v4.png",
+      "bytes": 75469
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-device-v4.png?v=1788411447&width=2000",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1440,
+      "height": 1260,
+      "file": "images/screenzen-halo/003-halo-device-v4.png",
+      "bytes": 606687
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-hiw-01-v1.jpg?v=1788410589&width=1200",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 900,
+      "file": "images/screenzen-halo/004-halo-hiw-01-v1.jpg",
+      "bytes": 230380
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-hiw-02-v1.jpg?v=1788410588&width=1200",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 900,
+      "file": "images/screenzen-halo/005-halo-hiw-02-v1.jpg",
+      "bytes": 220598
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-hiw-03-v1.jpg?v=1788410584&width=1200",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 900,
+      "height": 900,
+      "file": "images/screenzen-halo/006-halo-hiw-03-v1.jpg",
+      "bytes": 218922
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/comparison-halo-v5.jpg?v=1788411629&width=1400",
+      "alt": "Halo",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 805,
+      "file": "images/screenzen-halo/007-comparison-halo-v5.jpg",
+      "bytes": 20413
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/comparison-others-v14.jpg?v=1775070261&width=1400",
+      "alt": "Other tools",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 805,
+      "file": "images/screenzen-halo/008-comparison-others-v14.jpg",
+      "bytes": 34479
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-product-slider-01-v1.jpg?v=1788413260&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "file": "images/screenzen-halo/009-halo-product-slider-01-v1.jpg",
+      "bytes": 37715
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-product-slider-02-v1.jpg?v=1788413415&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "file": "images/screenzen-halo/010-halo-product-slider-02-v1.jpg",
+      "bytes": 386817
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-product-slider-03-v1.jpg?v=1788413590&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "file": "images/screenzen-halo/011-halo-product-slider-03-v1.jpg",
+      "bytes": 182268
+    },
+    {
+      "source_page": "https://screenzen.co/products/halo",
+      "image_url": "https://screenzen.co/cdn/shop/files/halo-product-slider-04-v2.jpg?v=1788414654&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1280,
+      "file": "images/screenzen-halo/012-halo-product-slider-04-v2.jpg",
+      "bytes": 90805
+    }
+  ],
+  "blocked": []
+}

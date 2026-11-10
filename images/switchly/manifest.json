@@ -1,0 +1,108 @@
+{
+  "images": [
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/favicon.png?v=cb5e47b8fb84",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 512,
+      "height": 512,
+      "file": "images/switchly/001-favicon.png",
+      "bytes": 32337
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-nfc-mini-angle.png",
+      "alt": "NFC Mini",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 900,
+      "file": "images/switchly/002-home-nfc-mini-angle.png",
+      "bytes": 75035
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-nfc-keychain-angle.png",
+      "alt": "NFC Keychain",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 900,
+      "file": "images/switchly/003-home-nfc-keychain-angle.png",
+      "bytes": 75548
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-qr-mini-angle.png",
+      "alt": "QR Mini",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 900,
+      "file": "images/switchly/004-home-qr-mini-angle.png",
+      "bytes": 178149
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-qr-keychain-angle.png",
+      "alt": "QR Keychain",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 900,
+      "height": 900,
+      "file": "images/switchly/005-home-qr-keychain-angle.png",
+      "bytes": 75548
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-nfc-mini-angle-320.webp",
+      "alt": "",
+      "found_in": "picture>source",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 320,
+      "height": 320,
+      "file": "images/switchly/006-home-nfc-mini-angle-320.png",
+      "bytes": 26892
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-nfc-keychain-angle-320.webp",
+      "alt": "",
+      "found_in": "picture>source",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 320,
+      "height": 320,
+      "file": "images/switchly/007-home-nfc-keychain-angle-320.png",
+      "bytes": 24971
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-qr-mini-angle-320.webp",
+      "alt": "",
+      "found_in": "picture>source",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 320,
+      "height": 320,
+      "file": "images/switchly/008-home-qr-mini-angle-320.png",
+      "bytes": 77940
+    },
+    {
+      "source_page": "https://switchly.saltyy.at",
+      "image_url": "https://switchly.saltyy.at/pics/store/home-qr-keychain-angle-320.webp",
+      "alt": "",
+      "found_in": "picture>source",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 320,
+      "height": 320,
+      "file": "images/switchly/009-home-qr-keychain-angle-320.png",
+      "bytes": 24971
+    }
+  ],
+  "blocked": []
+}

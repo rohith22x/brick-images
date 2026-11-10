@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn2.freedom.to/images/meta/fb_google_v5.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 628,
+      "file": "images/freedom/001-fb_google_v5.jpg",
+      "bytes": 49303
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/6a636518611992a5edea018d_8d89a075bb952d7263cdab4fe23dbe70_banner-home.avif",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 1734,
+      "height": 1444,
+      "file": "images/freedom/002-6a636518611992a5edea018d_8d89a075bb952d7263cdab4fe.png",
+      "bytes": 1230270
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/68c20f488a1991f935c9723b_hand.avif",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 1016,
+      "height": 350,
+      "file": "images/freedom/003-68c20f488a1991f935c9723b_hand.png",
+      "bytes": 179964
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/68c208bed992397a1b5b81bc_Headphones%20Collage.avif",
+      "alt": "Headphones",
+      "found_in": "img[srcset]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 630,
+      "height": 627,
+      "file": "images/freedom/004-68c208bed992397a1b5b81bc_Headphones-Collage.png",
+      "bytes": 325245
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/68c84463a09627aa7a1abb91_versions.svg",
+      "alt": "A laptop, monitor, tablet and phone all synced togther",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1488,
+      "height": 846,
+      "file": "images/freedom/005-68c84463a09627aa7a1abb91_versions.png",
+      "bytes": 60355
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/68c86971b6fd32caa2384479_icon-circles.svg",
+      "alt": "Freedom app logo",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 504,
+      "height": 506,
+      "file": "images/freedom/006-68c86971b6fd32caa2384479_icon-circles.png",
+      "bytes": 45067
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/699d8b7505e4ea47036b213a_Phone%20Mock-0.avif",
+      "alt": "A phone screen showing the Freedom app blocking apps and websites",
+      "found_in": "img[srcset]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 878,
+      "height": 1783,
+      "file": "images/freedom/007-699d8b7505e4ea47036b213a_Phone-Mock-0.png",
+      "bytes": 167210
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/699d8b757727d548afb1af7e_Phone%20Mock-1.avif",
+      "alt": "A phone screen showing the Freedom app scheduling the blocking sessions with several dates and timings",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 878,
+      "height": 1783,
+      "file": "images/freedom/008-699d8b757727d548afb1af7e_Phone-Mock-1.png",
+      "bytes": 178907
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/699d8b75a277dfdf0f8cd73b_Phone%20Mock-2.avif",
+      "alt": "A phone screen showing the Freedom app in locked mode",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 878,
+      "height": 1783,
+      "file": "images/freedom/009-699d8b75a277dfdf0f8cd73b_Phone-Mock-2.png",
+      "bytes": 137859
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/699d8b756fc427788fb2a02a_Phone%20Mock-3.avif",
+      "alt": "A phone screen showing the Freedom app and the blocklists in it",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 878,
+      "height": 1783,
+      "file": "images/freedom/010-699d8b756fc427788fb2a02a_Phone-Mock-3.png",
+      "bytes": 129387
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/699d8b75121d2233e501ac54_Phone%20Mock-4.avif",
+      "alt": "A phone screen showing the Freedom app where music and ambient sound is being set up",
+      "found_in": "img[src]",
+      "original_format": "AVIF",
+      "converted_to": "PNG",
+      "width": 878,
+      "height": 1783,
+      "file": "images/freedom/011-699d8b75121d2233e501ac54_Phone-Mock-4.png",
+      "bytes": 137875
+    },
+    {
+      "source_page": "https://freedom.to",
+      "image_url": "https://cdn.prod.website-files.com/68c1724cc1eae0d50ce78c99/68c99fbf69db7e9e5f20148d_brand-icon.svg",
+      "alt": "A freedom app butterfly",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 2284,
+      "height": 2054,
+      "file": "images/freedom/012-68c99fbf69db7e9e5f20148d_brand-icon.png",
+      "bytes": 176170
+    }
+  ],
+  "blocked": []
+}

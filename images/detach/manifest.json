@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "source_page": "https://getdetach.app",
+      "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/15fcea8f-a5d9-445f-8984-aa1b6e0cc5df/id-preview-3450c874--f27795d6-7639-412e-8146-a47983d4fa70.lovable.app-1771286308043.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1920,
+      "height": 3549,
+      "file": "images/detach/001-id-preview-3450c874--f27795d6-7639-412e-8146-a4798.png",
+      "bytes": 343076
+    }
+  ],
+  "blocked": []
+}

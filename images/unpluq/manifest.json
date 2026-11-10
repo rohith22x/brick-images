@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/foto_tag_zwembad.jpg?v=1784104466&width=4100",
+      "alt": "A hand holding a set of keys with the unpluq tag in the foreground, with a blurred outdoor poolside background under a blue sky.",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 4100,
+      "height": 3281,
+      "file": "images/unpluq/001-foto_tag_zwembad.jpg",
+      "bytes": 790511
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/foto_tag_zwembad.jpg?crop=center&height=3280&v=1784104466&width=4100",
+      "alt": "A hand holding a set of keys with the unpluq tag in the foreground, with a blurred outdoor poolside background under a blue sky.",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 4100,
+      "height": 3280,
+      "file": "images/unpluq/002-foto_tag_zwembad.jpg",
+      "bytes": 777730
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-tag-hero-photo-mobile.jpg?v=1745924126&width=738",
+      "alt": "Unpluq with Instagram blocked",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 738,
+      "height": 1252,
+      "file": "images/unpluq/003-unpluq-tag-hero-photo-mobile.jpg",
+      "bytes": 119898
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-tag-hero-photo-mobile.jpg?crop=center&height=1272&v=1745924126&width=750",
+      "alt": "Unpluq with Instagram blocked",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 750,
+      "height": 1272,
+      "file": "images/unpluq/004-unpluq-tag-hero-photo-mobile.jpg",
+      "bytes": 103755
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/how-unpluq-tag-homepage.jpg?v=1745924567&width=3760",
+      "alt": "Unpluq app",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 3760,
+      "height": 5640,
+      "file": "images/unpluq/005-how-unpluq-tag-homepage.jpg",
+      "bytes": 3175413
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/how-unpluq-tag-homepage.jpg?crop=center&height=5760&v=1745924567&width=4000",
+      "alt": "Unpluq app",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 4000,
+      "height": 5760,
+      "file": "images/unpluq/006-how-unpluq-tag-homepage.jpg",
+      "bytes": 607502
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/tag-unpluq-product.jpg?v=1745925002&width=2700",
+      "alt": "Unpluq Tag on couch",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 2700,
+      "height": 1800,
+      "file": "images/unpluq/007-tag-unpluq-product.jpg",
+      "bytes": 408678
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/tag-unpluq-product.jpg?crop=center&height=1824&v=1745925002&width=2736",
+      "alt": "Unpluq Tag on couch",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 2736,
+      "height": 1824,
+      "file": "images/unpluq/008-tag-unpluq-product.jpg",
+      "bytes": 74331
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-homepage-how-image.jpg?v=1745924126&width=1080",
+      "alt": "Happy couple",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1080,
+      "height": 1620,
+      "file": "images/unpluq/009-unpluq-homepage-how-image.jpg",
+      "bytes": 264671
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-homepage-how-image.jpg?crop=center&height=1920&v=1745924126&width=1280",
+      "alt": "Happy couple",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1280,
+      "height": 1920,
+      "file": "images/unpluq/010-unpluq-homepage-how-image.jpg",
+      "bytes": 140939
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-tag-product-box.jpg?v=1745925041&width=1960",
+      "alt": "Unpluq Tag out of box",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1960,
+      "height": 1307,
+      "file": "images/unpluq/011-unpluq-tag-product-box.jpg",
+      "bytes": 328115
+    },
+    {
+      "source_page": "https://www.unpluq.com",
+      "image_url": "https://www.unpluq.com/cdn/shop/files/unpluq-tag-product-box.jpg?crop=center&height=1824&v=1745925041&width=2736",
+      "alt": "Unpluq Tag out of box",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 2736,
+      "height": 1824,
+      "file": "images/unpluq/012-unpluq-tag-product-box.jpg",
+      "bytes": 125941
+    }
+  ],
+  "blocked": []
+}

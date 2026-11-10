@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-sz-hero_1.png?v=1760641917&width=3840",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 780,
+      "height": 1080,
+      "file": "images/screenzen/001-img-sz-hero_1.png",
+      "bytes": 526818
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-topdown-bedroom_1.png?v=1760391839&width=1200",
+      "alt": "Video thumbnail",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 600,
+      "file": "images/screenzen/002-img-topdown-bedroom_1.png",
+      "bytes": 430709
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/a261f7183f3ed811dd2c6eabad1d8241be1c1956.jpg?v=1759168777",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 980,
+      "height": 550,
+      "file": "images/screenzen/003-a261f7183f3ed811dd2c6eabad1d8241be1c1956.jpg",
+      "bytes": 59479
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/Screenshot_2025-12-10_at_11.24.34_PM.png?v=1765380345",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 646,
+      "height": 1134,
+      "file": "images/screenzen/004-Screenshot_2025-12-10_at_11.24.34_PM.png",
+      "bytes": 403115
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/Screenshot_2025-12-10_at_11.24.08_PM.png?v=1765380345",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 650,
+      "height": 1136,
+      "file": "images/screenzen/005-Screenshot_2025-12-10_at_11.24.08_PM.png",
+      "bytes": 392099
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/Screenshot_2025-12-10_at_11.25.10_PM.png?v=1765380345",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 648,
+      "height": 1128,
+      "file": "images/screenzen/006-Screenshot_2025-12-10_at_11.25.10_PM.png",
+      "bytes": 960832
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/293dccc886d5e2fc39e8b58443e819c0846f2150.png?v=1759168782",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 780,
+      "height": 1232,
+      "file": "images/screenzen/007-293dccc886d5e2fc39e8b58443e819c0846f2150.png",
+      "bytes": 1125747
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/f5acb97858dfab9205c0c91838a63d4a74c12188.jpg?v=1759168774",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 980,
+      "height": 550,
+      "file": "images/screenzen/008-f5acb97858dfab9205c0c91838a63d4a74c12188.jpg",
+      "bytes": 56606
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-sz-screenshot-01.png?v=1760391957&width=1600",
+      "alt": "Choose your apps",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 780,
+      "height": 870,
+      "file": "images/screenzen/009-img-sz-screenshot-01.png",
+      "bytes": 139080
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-sz-screenshot-02.png?v=1760392022&width=1600",
+      "alt": "Limit your screen time",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 780,
+      "height": 870,
+      "file": "images/screenzen/010-img-sz-screenshot-02.png",
+      "bytes": 132227
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-sz-screenshot-03.png?v=1760392046&width=1600",
+      "alt": "Schedule blocks to focus",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1040,
+      "height": 1160,
+      "file": "images/screenzen/011-img-sz-screenshot-03.png",
+      "bytes": 186932
+    },
+    {
+      "source_page": "https://screenzen.co",
+      "image_url": "https://screenzen.co/cdn/shop/files/img-sz-screenshot-04.png?v=1760392051&width=1600",
+      "alt": "Use your apps mindfully",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1040,
+      "height": 1160,
+      "file": "images/screenzen/012-img-sz-screenshot-04.png",
+      "bytes": 252754
+    }
+  ],
+  "blocked": []
+}

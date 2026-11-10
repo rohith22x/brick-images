@@ -1,0 +1,99 @@
+{
+  "images": [
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/opengraph-image",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/noff/001-opengraph-image.png",
+      "bytes": 231773
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fhome.webp&w=3840&q=75",
+      "alt": "Noff home screen with a Focus profile ready to start",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/002-image.jpg",
+      "bytes": 140173
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fhome-blocked.webp&w=3840&q=75",
+      "alt": "Noff home screen during an active Focus session with apps blocked",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/003-image.jpg",
+      "bytes": 173966
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fiphone-frame.png&w=3840&q=75",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "PNG",
+      "width": 1350,
+      "height": 2760,
+      "file": "images/noff/004-image.png",
+      "bytes": 97739
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fapple-blocking.webp&w=3840&q=75",
+      "alt": "iOS Screen Time blocking screen",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/005-image.jpg",
+      "bytes": 101157
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fnoff-blocking.webp&w=3840&q=75",
+      "alt": "Noff blocking screen",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/006-image.jpg",
+      "bytes": 98124
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fmetrics-weekly.webp&w=3840&q=75",
+      "alt": "Noff weekly metrics showing protected time and daily trends",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/007-image.jpg",
+      "bytes": 169951
+    },
+    {
+      "source_page": "https://noff.app",
+      "image_url": "https://noff.app/_next/image?url=%2Fscreenshots%2Fmetrics-monthly.webp&w=3840&q=75",
+      "alt": "Noff monthly metrics showing protected time and a protection calendar",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1206,
+      "height": 2622,
+      "file": "images/noff/008-image.jpg",
+      "bytes": 203926
+    }
+  ],
+  "blocked": []
+}

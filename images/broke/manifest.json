@@ -1,0 +1,121 @@
+{
+  "images": [
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/featured.DTaUJ-NS_Z2dy47s.jpeg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1008,
+      "height": 756,
+      "file": "images/broke/001-featured.DTaUJ-NS_Z2dy47s.jpg",
+      "bytes": 62034
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/logo.DaGvvPH5.png",
+      "alt": "0xZ",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 512,
+      "height": 512,
+      "file": "images/broke/002-logo.DaGvvPH5.png",
+      "bytes": 14738
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/featured.DTaUJ-NS_qy4oy.webp",
+      "alt": "Broke: An Open Source Alternative to Brick",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1008,
+      "height": 756,
+      "file": "images/broke/003-featured.DTaUJ-NS_qy4oy.jpg",
+      "bytes": 89425
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/3d-printed-case-prototypes.CR82ivrZ_ZTEWsA.webp",
+      "alt": "It took multiple tries, but I'm really happy with the end product",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 2000,
+      "height": 1500,
+      "file": "images/broke/004-3d-printed-case-prototypes.CR82ivrZ_ZTEWsA.jpg",
+      "bytes": 348480
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/claude-writing-swiftui-code.CKOlD3UE_Z1zPBfx.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1663,
+      "height": 1053,
+      "file": "images/broke/005-claude-writing-swiftui-code.CKOlD3UE_Z1zPBfx.jpg",
+      "bytes": 236424
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/broke-app-poc-screens.ZeJDO5EN_1lGXDD.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 496,
+      "height": 511,
+      "file": "images/broke/006-broke-app-poc-screens.ZeJDO5EN_1lGXDD.png",
+      "bytes": 55773
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/xcode-broke-app-with-claude.9OUvwEqP_Z1jFcxu.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1916,
+      "height": 840,
+      "file": "images/broke/007-xcode-broke-app-with-claude.9OUvwEqP_Z1jFcxu.jpg",
+      "bytes": 233725
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/broke-icon-color-variants.B6XK18ll_2g1cOs.webp",
+      "alt": "",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 633,
+      "height": 471,
+      "file": "images/broke/008-broke-icon-color-variants.B6XK18ll_2g1cOs.jpg",
+      "bytes": 28100
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/_astro/avatar.BuVNTb6z.png",
+      "alt": "Oz Tamir",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1208,
+      "height": 1208,
+      "file": "images/broke/009-avatar.BuVNTb6z.png",
+      "bytes": 1046347
+    },
+    {
+      "source_page": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/",
+      "image_url": "https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/iphone-nfc-scan-ready-poster.png",
+      "alt": "",
+      "found_in": "video[poster]",
+      "original_format": "PNG",
+      "width": 725,
+      "height": 705,
+      "file": "images/broke/010-iphone-nfc-scan-ready-poster.png",
+      "bytes": 192708
+    }
+  ],
+  "blocked": []
+}

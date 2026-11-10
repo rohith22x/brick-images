@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "source_page": "https://aura-landing-launch-test.pages.dev/",
+      "image_url": "https://aura-landing-launch-test.pages.dev/images/home-mockup.png",
+      "alt": "Aura App",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1596,
+      "height": 3302,
+      "file": "images/aura/001-home-mockup.png",
+      "bytes": 2202352
+    },
+    {
+      "source_page": "https://aura-landing-launch-test.pages.dev/",
+      "image_url": "https://aura-landing-launch-test.pages.dev/images/card-mockup.png",
+      "alt": "Aura NFC Card",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 375,
+      "height": 229,
+      "file": "images/aura/002-card-mockup.png",
+      "bytes": 54406
+    },
+    {
+      "source_page": "https://aura-landing-launch-test.pages.dev/",
+      "image_url": "https://aura-landing-launch-test.pages.dev/images/session.png",
+      "alt": "Aura App Interface",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1596,
+      "height": 2536,
+      "file": "images/aura/003-session.png",
+      "bytes": 690803
+    },
+    {
+      "source_page": "https://aura-landing-launch-test.pages.dev/",
+      "image_url": "https://aura-landing-launch-test.pages.dev/images/footer-mockup.png",
+      "alt": "Aura Phone Usage",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2805,
+      "height": 2224,
+      "file": "images/aura/004-footer-mockup.png",
+      "bytes": 1831480
+    }
+  ],
+  "blocked": []
+}

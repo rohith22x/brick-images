@@ -1,0 +1,144 @@
+{
+  "images": [
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/halo/halo-alternatives.jpeg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 702,
+      "file": "images/extra-roundup-whatifididnt/001-halo-alternatives.jpg",
+      "bytes": 152605
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://www.facebook.com/tr?id=676216971834445&ev=PageView&noscript=1",
+      "alt": "",
+      "found_in": "img[src]",
+      "skipped": "not a readable image (UnidentifiedImageError)"
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/DtHmVt9WQr-960.jpeg",
+      "alt": "Brick, Bloom, the ScreenZen Halo, and other physical phone blockers on a table",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 960,
+      "height": 562,
+      "file": "images/extra-roundup-whatifididnt/002-DtHmVt9WQr-960.jpg",
+      "bytes": 95642
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/VB1Qw402yb-960.jpeg",
+      "alt": "The Brick phone blocker, a magnetic NFC cube that locks distracting apps",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 960,
+      "height": 623,
+      "file": "images/extra-roundup-whatifididnt/003-VB1Qw402yb-960.jpg",
+      "bytes": 52583
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/VB1Qw402yb-320.jpeg",
+      "alt": "The Brick phone blocker, a magnetic NFC cube that locks distracting apps",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 320,
+      "height": 207,
+      "file": "images/extra-roundup-whatifididnt/004-VB1Qw402yb-320.jpg",
+      "bytes": 7426
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/93f1nTU5-5-960.jpeg",
+      "alt": "Man holding the Bloom card, a stainless steel NFC app blocker",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 960,
+      "height": 575,
+      "file": "images/extra-roundup-whatifididnt/005-93f1nTU5-5-960.jpg",
+      "bytes": 41532
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/EnlcIU1ox5-960.jpeg",
+      "alt": "The Unpluq NFC tag clipped to a keychain",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 960,
+      "height": 636,
+      "file": "images/extra-roundup-whatifididnt/006-EnlcIU1ox5-960.jpg",
+      "bytes": 53768
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/EnlcIU1ox5-320.jpeg",
+      "alt": "The Unpluq NFC tag clipped to a keychain",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 320,
+      "height": 212,
+      "file": "images/extra-roundup-whatifididnt/007-EnlcIU1ox5-320.jpg",
+      "bytes": 7938
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/iN3QpxbTcA-960.jpeg",
+      "alt": "The ScreenZen Halo next to an iPhone showing a Blocked by Halo screen",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 960,
+      "height": 622,
+      "file": "images/extra-roundup-whatifididnt/008-iN3QpxbTcA-960.jpg",
+      "bytes": 45111
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/iN3QpxbTcA-320.jpeg",
+      "alt": "The ScreenZen Halo next to an iPhone showing a Blocked by Halo screen",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 320,
+      "height": 207,
+      "file": "images/extra-roundup-whatifididnt/009-iN3QpxbTcA-320.jpg",
+      "bytes": 6858
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/xT109muekY-1920.jpeg",
+      "alt": "The Autonomous Key, an NFC phone blocker shaped like a key",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 1920,
+      "height": 1080,
+      "file": "images/extra-roundup-whatifididnt/010-xT109muekY-1920.jpg",
+      "bytes": 38613
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/A0-IQJqS2V-640.jpeg",
+      "alt": "Scrolly NFC app blockers in pink and navy, shaped like cartoon characters",
+      "found_in": "img[srcset]",
+      "original_format": "JPEG",
+      "width": 640,
+      "height": 436,
+      "file": "images/extra-roundup-whatifididnt/011-A0-IQJqS2V-640.jpg",
+      "bytes": 30135
+    },
+    {
+      "source_page": "https://whatifididnt.com/blog/physical-phone-blocker/",
+      "image_url": "https://whatifididnt.com/assets/blog/A0-IQJqS2V-320.jpeg",
+      "alt": "Scrolly NFC app blockers in pink and navy, shaped like cartoon characters",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 320,
+      "height": 218,
+      "file": "images/extra-roundup-whatifididnt/012-A0-IQJqS2V-320.jpg",
+      "bytes": 12132
+    }
+  ],
+  "blocked": []
+}

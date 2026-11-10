@@ -1,0 +1,141 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "http://www.lokd.io/cdn/shop/files/lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db360a9.png?v=1777336437",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1155,
+      "height": 1155,
+      "file": "images/lokd/001-lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db3.png",
+      "bytes": 1951943
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db360a9.png?v=1777336437",
+      "alt": "",
+      "found_in": "meta:twitter:image",
+      "original_format": "PNG",
+      "width": 1155,
+      "height": 1155,
+      "file": "images/lokd/002-lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db3.png",
+      "bytes": 1951943
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://cdn.shopify.com/static/images/flags/us.svg?width=20",
+      "alt": "United States",
+      "found_in": "img[srcset]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/lokd/003-us.png",
+      "bytes": 68968
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://cdn.shopify.com/static/images/flags/us.svg?width=60",
+      "alt": "United States",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/lokd/004-us.png",
+      "bytes": 68968
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://cdn.shopify.com/static/images/flags/us.svg?width=18",
+      "alt": "United States",
+      "found_in": "img[srcset]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/lokd/005-us.png",
+      "bytes": 68968
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://cdn.shopify.com/static/images/flags/us.svg?width=54",
+      "alt": "United States",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1280,
+      "height": 960,
+      "file": "images/lokd/006-us.png",
+      "bytes": 68968
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db360a9.png?v=1777336437&width=1200",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1155,
+      "height": 1155,
+      "file": "images/lokd/007-lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db3.png",
+      "bytes": 1951943
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/ScanningLOKDKeyCard.png?v=1777585145&width=1200",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 878,
+      "height": 878,
+      "file": "images/lokd/008-ScanningLOKDKeyCard.png",
+      "bytes": 1239003
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/ChatGPTImageApr24_2026at05_17_32PM_307daefc-557e-462f-99d7-440a87921fd0.png?v=1777336437&width=1200",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 675,
+      "file": "images/lokd/009-ChatGPTImageApr24_2026at05_17_32PM_307daefc-557e-4.png",
+      "bytes": 1151953
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/ChatGPTImageApr24_2026at06_02_32PM_eb56b744-5e27-4e6e-9e4f-d749f0fb1410.png?v=1777336437&width=1200",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 1200,
+      "file": "images/lokd/010-ChatGPTImageApr24_2026at06_02_32PM_eb56b744-5e27-4.png",
+      "bytes": 2164276
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/ChatGPTImageApr24_2026at05_56_15PM_635a94a2-cf85-4b55-aa23-2b432c79004e.png?v=1777336437&width=1200",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 1200,
+      "file": "images/lokd/011-ChatGPTImageApr24_2026at05_56_15PM_635a94a2-cf85-4.png",
+      "bytes": 2290722
+    },
+    {
+      "source_page": "https://www.lokd.io/products/lokd-keycard",
+      "image_url": "https://www.lokd.io/cdn/shop/files/lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db360a9.png?v=1777336437&width=2000",
+      "alt": "LOKD Keycard",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1155,
+      "height": 1155,
+      "file": "images/lokd/012-lokdkeycardondesk_3345b0f7-c437-48cc-9cca-d69f9db3.png",
+      "bytes": 1951943
+    }
+  ],
+  "blocked": []
+}

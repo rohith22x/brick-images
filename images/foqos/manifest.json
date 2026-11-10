@@ -1,0 +1,138 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/foqos-social-card-2026.png",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/foqos/001-foqos-social-card-2026.png",
+      "bytes": 347505
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/logos/ssense-logo.png",
+      "alt": "SSENSE",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1280,
+      "height": 261,
+      "file": "images/foqos/002-ssense-logo.png",
+      "bytes": 15434
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/logos/pc-mag-logo.svg",
+      "alt": "PCMag",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 5000,
+      "height": 5000,
+      "file": "images/foqos/003-pc-mag-logo.png",
+      "bytes": 257599
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/logos/slate-logo.png",
+      "alt": "Slate",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 3240,
+      "height": 1000,
+      "file": "images/foqos/004-slate-logo.png",
+      "bytes": 38402
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/logos/lifehacker-logo.png",
+      "alt": "Lifehacker",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 2400,
+      "height": 597,
+      "file": "images/foqos/005-lifehacker-logo.png",
+      "bytes": 25721
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/logos/yahoo-logo.png",
+      "alt": "Yahoo News",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 3840,
+      "height": 624,
+      "file": "images/foqos/006-yahoo-logo.png",
+      "bytes": 90493
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/strategies/nfc.png",
+      "alt": "Blue NFC tag",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 256,
+      "height": 256,
+      "file": "images/foqos/007-nfc.png",
+      "bytes": 51321
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/strategies/qr.png",
+      "alt": "QR code sticker",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 256,
+      "height": 256,
+      "file": "images/foqos/008-qr.png",
+      "bytes": 57918
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/strategies/nfc-pause.png",
+      "alt": "NFC tag with a break timer",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 256,
+      "height": 250,
+      "file": "images/foqos/009-nfc-pause.png",
+      "bytes": 54209
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/strategies/manual.png",
+      "alt": "Manual blocking sticker",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 256,
+      "height": 256,
+      "file": "images/foqos/010-manual.png",
+      "bytes": 53051
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/strategies/temporary-access-qr.png",
+      "alt": "Privacy shield and QR code",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 256,
+      "height": 252,
+      "file": "images/foqos/011-temporary-access-qr.png",
+      "bytes": 66668
+    },
+    {
+      "source_page": "https://www.foqos.app",
+      "image_url": "https://www.foqos.app/assets/tiktok-naomi-vizcaino.jpg",
+      "alt": "Aesthetic screen-time blocker made with wall-mounted NFC tags",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 1014,
+      "height": 1353,
+      "file": "images/foqos/012-tiktok-naomi-vizcaino.jpg",
+      "bytes": 161494
+    }
+  ],
+  "blocked": []
+}

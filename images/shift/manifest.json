@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/shift-og-home-client-ui.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/shift/001-shift-og-home-client-ui.jpg",
+      "bytes": 162541
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://www.facebook.com/tr?id=1453624409397105&ev=PageView&noscript=1",
+      "alt": "",
+      "found_in": "img[src]",
+      "skipped": "not a readable image (UnidentifiedImageError)"
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/shift-hero-laptop-wide-4.webp",
+      "alt": "Laptop and iPhone showing SHIFT on a warm desk",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1981,
+      "height": 793,
+      "file": "images/shift/002-shift-hero-laptop-wide-4.jpg",
+      "bytes": 294610
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/hero-phone-blocked-apps.webp",
+      "alt": "SHIFT keeps useful phone apps available while blocking distractions",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1122,
+      "height": 1402,
+      "file": "images/shift/003-hero-phone-blocked-apps.png",
+      "bytes": 689759
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/iphone-15-pro-max-black-titanium-shifted.webp",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 960,
+      "height": 1905,
+      "file": "images/shift/004-iphone-15-pro-max-black-titanium-shifted.png",
+      "bytes": 605352
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/testimonials/sipswithserra.jpg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 360,
+      "height": 640,
+      "file": "images/shift/005-sipswithserra.jpg",
+      "bytes": 25865
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/testimonials/bengarseeya.jpg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 360,
+      "height": 640,
+      "file": "images/shift/006-bengarseeya.jpg",
+      "bytes": 21755
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/testimonials/ian-testimonial.jpg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "file": "images/shift/007-ian-testimonial.jpg",
+      "bytes": 66701
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/testimonials/daniel-testimonial.jpg",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "file": "images/shift/008-daniel-testimonial.jpg",
+      "bytes": 58456
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/iphone-15-pro-max-black-titanium.webp",
+      "alt": "iPhone with distracting apps blocked by SHIFT",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 960,
+      "height": 1905,
+      "file": "images/shift/009-iphone-15-pro-max-black-titanium.png",
+      "bytes": 794591
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/revised-laptop-clean-studio.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1479,
+      "height": 1064,
+      "file": "images/shift/010-revised-laptop-clean-studio.png",
+      "bytes": 1293576
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/logos/screen-time-icon.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/shift/011-screen-time-icon.png",
+      "bytes": 124137
+    },
+    {
+      "source_page": "https://www.shiftyourphone.com",
+      "image_url": "https://shiftyourphone.com/images/logos/opal-app-icon.png",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 600,
+      "height": 600,
+      "file": "images/shift/012-opal-app-icon.png",
+      "bytes": 222896
+    }
+  ],
+  "blocked": []
+}

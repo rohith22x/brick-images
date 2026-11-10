@@ -1,0 +1,110 @@
+{
+  "images": [
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/app-icon.png?v=focus-fence",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "file": "images/focus-phone/001-app-icon.png",
+      "bytes": 875904
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/illustrations/neighborhood-hero-v1-1440.webp",
+      "alt": "A peaceful home behind a white fence, with a location pin above it and mischievous app characters kept outside.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1440,
+      "height": 960,
+      "file": "images/focus-phone/002-neighborhood-hero-v1-1440.png",
+      "bytes": 1131861
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/illustrations/protected-focus-v1-1200.webp",
+      "alt": "Attention gremlins gather outside a fence while a brain stays protected inside.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1200,
+      "height": 900,
+      "file": "images/focus-phone/003-protected-focus-v1-1200.png",
+      "bytes": 962011
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/illustrations/places-wide-v1-1600.webp",
+      "alt": "School, work, and home each have their own fence, location pin, and different distracting apps outside.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1600,
+      "height": 800,
+      "file": "images/focus-phone/004-places-wide-v1-1600.png",
+      "bytes": 1015427
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/illustrations/sleeping-gremlins-v1-1440.webp",
+      "alt": "App gremlins sleep on pillows outside a white fence while someone rests in a cozy home under the moon.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1440,
+      "height": 1080,
+      "file": "images/focus-phone/005-sleeping-gremlins-v1-1440.png",
+      "bytes": 1221312
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/screen-radius-small.png?v=focus-fence",
+      "alt": "Actual app screen: a Work location on a map with a 160-meter boundary and radius slider.",
+      "found_in": "img[src]",
+      "original_format": "PNG",
+      "width": 414,
+      "height": 900,
+      "file": "images/focus-phone/006-screen-radius-small.png",
+      "bytes": 220817
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/screen-fences-v2-800.webp",
+      "alt": "Actual app screen: a list of School, Work, and Home fences with individual settings.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 800,
+      "height": 1739,
+      "file": "images/focus-phone/007-screen-fences-v2-800.jpg",
+      "bytes": 97727
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/screen-home-v2-800.webp",
+      "alt": "An actual iPhone Home Screen with Focus Fence widgets: a date card and a simple launcher for Messages, Phone, Mail, Maps, Calendar, Music, and Clock.",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 800,
+      "height": 1739,
+      "file": "images/focus-phone/008-screen-home-v2-800.jpg",
+      "bytes": 119398
+    },
+    {
+      "source_page": "https://www.getfocusphone.com",
+      "image_url": "https://getfocusfence.com/assets/images/dean.jpg",
+      "alt": "Dean, the maker of Focus Fence",
+      "found_in": "img[src]",
+      "original_format": "JPEG",
+      "width": 512,
+      "height": 512,
+      "file": "images/focus-phone/009-dean.jpg",
+      "bytes": 46913
+    }
+  ],
+  "blocked": []
+}

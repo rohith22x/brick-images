@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/og.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/bloom/001-og.jpg",
+      "bytes": 62785
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/shark-tank.D4SMB3ND_ZnWWa7.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "As seen on ABC's Shark Tank",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 2400,
+      "height": 273,
+      "file": "images/bloom/002-shark-tank.D4SMB3ND_ZnWWa7.jpg",
+      "bytes": 62445
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/tap.nsRYCpVD_1vgpkM.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "The Bloom Card tapped against the top of an iPhone showing a Ready to Scan prompt",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1200,
+      "height": 1200,
+      "file": "images/bloom/003-tap.nsRYCpVD_1vgpkM.png",
+      "bytes": 289861
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/tap.nsRYCpVD_1dc6M1.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "The Bloom Card tapped against the top of an iPhone showing a Ready to Scan prompt",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1800,
+      "height": 1800,
+      "file": "images/bloom/004-tap.nsRYCpVD_1dc6M1.png",
+      "bytes": 571197
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/phone-blocked.yqUv7g_p_Z1XeuEw.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "An iPhone showing the Bloom Blocked screen: tap your Bloom card to access Instagram",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 509,
+      "height": 900,
+      "file": "images/bloom/005-phone-blocked.yqUv7g_p_Z1XeuEw.png",
+      "bytes": 84219
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/phone-bypass.DAWwkNWI_ZSVuvQ.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "A screen time app showing a Time Limit warning with an Ignore Limit for Today option",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 509,
+      "height": 900,
+      "file": "images/bloom/006-phone-bypass.DAWwkNWI_ZSVuvQ.png",
+      "bytes": 101552
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/take-control.B2OunD6x_2Hwwh.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "The Bloom Card",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1200,
+      "height": 1200,
+      "file": "images/bloom/007-take-control.B2OunD6x_2Hwwh.png",
+      "bytes": 308376
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/take-control.B2OunD6x_Zwdntt.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "The Bloom Card",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 2160,
+      "height": 2160,
+      "file": "images/bloom/008-take-control.B2OunD6x_Zwdntt.png",
+      "bytes": 840711
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/howie.BaiEJ8Y3_1C8SUp.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "Howie Mandel holding the Bloom Card",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1000,
+      "height": 1250,
+      "file": "images/bloom/009-howie.BaiEJ8Y3_1C8SUp.jpg",
+      "bytes": 315631
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/howie.BaiEJ8Y3_Z1fgh0j.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "Howie Mandel holding the Bloom Card",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 1120,
+      "height": 1400,
+      "file": "images/bloom/010-howie.BaiEJ8Y3_Z1fgh0j.jpg",
+      "bytes": 472728
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/howie.BaiEJ8Y3_ZDSSDd.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "Howie Mandel holding the Bloom Card",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 900,
+      "height": 1125,
+      "file": "images/bloom/011-howie.BaiEJ8Y3_ZDSSDd.jpg",
+      "bytes": 264112
+    },
+    {
+      "source_page": "https://bloom.inc",
+      "image_url": "https://bloom.inc/_astro/arya.c0tRrCaJ_Z2qV7gT.webp?dpl=dpl_JCYiXeTJ3YQMmKE9HxxbQKADuhMV",
+      "alt": "The Bloom Card in a customer\u2019s wallet",
+      "found_in": "img[srcset]",
+      "original_format": "WEBP",
+      "converted_to": "JPG",
+      "width": 922,
+      "height": 1200,
+      "file": "images/bloom/012-arya.c0tRrCaJ_Z2qV7gT.jpg",
+      "bytes": 133942
+    }
+  ],
+  "blocked": []
+}

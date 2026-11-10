@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/og-image-v2.jpg",
+      "alt": "",
+      "found_in": "meta:og:image",
+      "original_format": "JPEG",
+      "width": 1200,
+      "height": 630,
+      "file": "images/scrolly/001-og-image-v2.jpg",
+      "bytes": 83895
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/logo/horizontal-logo-outlined.svg?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "Scrolly",
+      "found_in": "img[src]",
+      "original_format": "SVG",
+      "converted_to": "PNG",
+      "width": 1590,
+      "height": 604,
+      "file": "images/scrolly/002-horizontal-logo-outlined.png",
+      "bytes": 70186
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/big/hand.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 1452,
+      "height": 1664,
+      "file": "images/scrolly/003-hand.png",
+      "bytes": 650734
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/big/phone-right.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 734,
+      "height": 1096,
+      "file": "images/scrolly/004-phone-right.png",
+      "bytes": 429738
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/big/phone-left.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 734,
+      "height": 1096,
+      "file": "images/scrolly/005-phone-left.png",
+      "bytes": 481501
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/big/phone-center.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 491,
+      "height": 1004,
+      "file": "images/scrolly/006-phone-center.png",
+      "bytes": 211194
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/medium/hand.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 718,
+      "height": 881,
+      "file": "images/scrolly/007-hand.png",
+      "bytes": 277647
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/medium/phone-right.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 439,
+      "height": 655,
+      "file": "images/scrolly/008-phone-right.png",
+      "bytes": 213590
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/medium/phone-left.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 439,
+      "height": 655,
+      "file": "images/scrolly/009-phone-left.png",
+      "bytes": 238024
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/medium/phone-center.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 293,
+      "height": 600,
+      "file": "images/scrolly/010-phone-center.png",
+      "bytes": 110212
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/mobile/phone-right.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 305,
+      "height": 456,
+      "file": "images/scrolly/011-phone-right.png",
+      "bytes": 129749
+    },
+    {
+      "source_page": "https://scrollyapp.io",
+      "image_url": "https://scrollyapp.io/images/hero/en/mobile/phone-left.webp?dpl=dpl_2K8pf7kgWu3tBtzNKB8Yjvcy8gkG",
+      "alt": "",
+      "found_in": "img[src]",
+      "original_format": "WEBP",
+      "converted_to": "PNG",
+      "width": 305,
+      "height": 456,
+      "file": "images/scrolly/012-phone-left.png",
+      "bytes": 138856
+    }
+  ],
+  "blocked": []
+}
