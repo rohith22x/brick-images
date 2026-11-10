@@ -1,0 +1,32 @@
+name: Fetch product images
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 Pillow cairosvg
+      - name: Download images for every product
+        run: |
+          tail -n +2 products.csv | while IFS=, read -r slug url; do
+            url="$(echo "$url" | tr -d '\r')"
+            [ -z "$url" ] && { echo "skip $slug (no url)"; continue; }
+            echo "=== $slug -> $url"
+            python scripts/fetch_images.py "$url" --out "images/$slug" \
+              --max 12 --min-width 250 --min-height 200 || echo "warn: $slug returned no images"
+          done
+      - name: Commit images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add images
+          git commit -m "Fetched product images" || echo "nothing to commit"
+          git push
